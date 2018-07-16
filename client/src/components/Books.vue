@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-sm-10">
         <h1>Books</h1>
-        <hr><br><br>
+        <hr>
         <alert :message=message v-if="showMessage"></alert>
         <button type="button" class="btn btn-success btn-sm" v-b-modal.book-modal>Add Book</button>
         <br><br>
