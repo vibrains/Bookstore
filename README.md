@@ -1,14 +1,3 @@
-# Developing a Single Page App with Flask and Vue.js
-
-### Want to learn how to build this?
-
-Check out the posts:
-
-1. [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs)
-1. [Accepting Payments with Stripe, Vue.js, and Flask](https://testdriven.io/accepting-payments-with-stripe-vuejs-and-flask)
-
-## Want to use this project?
-
 1. Fork/Clone
 
 1. Sign up for [Stripe](https://stripe.com/) (if you don't already have an account).
@@ -25,7 +14,7 @@ Check out the posts:
     ```sh
     $ cd server
     $ python3.6 -m venv env
-    $ source env/bin/activate
+    $ source env/bin/activate OR source/Scripts/active (this depends on your environment)
     (env)$ pip install -r requirements.txt
     (env)$ python app.py
     ```
