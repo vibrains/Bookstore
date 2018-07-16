@@ -92,7 +92,7 @@ export default {
         exp: '',
       },
       errors: [],
-      stripePublishableKey: 'pk_test_euLBcJb9RhzOjnQU2GRFqU3i',
+      stripePublishableKey: 'UPDATE_ME',
       stripeCheck: false,
     };
   },
