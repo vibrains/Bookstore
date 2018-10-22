@@ -1,5 +1,3 @@
-![Alt Text](https://imgur.com/f9sexkJ.gif)
-
 1. Fork/Clone
 
 1. Sign up for [Stripe](https://stripe.com/) (if you don't already have an account).
